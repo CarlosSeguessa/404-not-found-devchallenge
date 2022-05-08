@@ -1,0 +1,22 @@
+{
+  "name": "404-not-found-devchallenge",
+  "version": "1.0.0",
+  "description": "<!-- Please update value in the {}  -->",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CarlosSeguessa/404-not-found-devchallenge.git"
+  },
+  "author": "Carlos Seguessa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CarlosSeguessa/404-not-found-devchallenge/issues"
+  },
+  "homepage": "https://github.com/CarlosSeguessa/404-not-found-devchallenge#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.0.24"
+  }
+}
